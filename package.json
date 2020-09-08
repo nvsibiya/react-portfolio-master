@@ -26,5 +26,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvsibiya/react-portfolio-master.git"
+  },
+  "author": "Nomfundo Verah Sibiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvsibiya/react-portfolio-master/issues"
+  },
+  "homepage": "https://github.com/nvsibiya/react-portfolio-master#readme"
 }

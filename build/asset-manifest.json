@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nvsibiya/react-portfolio-masterstatic/css/main.5facb584.chunk.css",
+    "main.js": "/nvsibiya/react-portfolio-masterstatic/js/main.4ca79ebe.chunk.js",
+    "main.js.map": "/nvsibiya/react-portfolio-masterstatic/js/main.4ca79ebe.chunk.js.map",
+    "runtime-main.js": "/nvsibiya/react-portfolio-masterstatic/js/runtime-main.ad332b61.js",
+    "runtime-main.js.map": "/nvsibiya/react-portfolio-masterstatic/js/runtime-main.ad332b61.js.map",
+    "static/js/2.3ef2d018.chunk.js": "/nvsibiya/react-portfolio-masterstatic/js/2.3ef2d018.chunk.js",
+    "static/js/2.3ef2d018.chunk.js.map": "/nvsibiya/react-portfolio-masterstatic/js/2.3ef2d018.chunk.js.map",
+    "index.html": "/nvsibiya/react-portfolio-masterindex.html",
+    "precache-manifest.37a8b77bc7b8a89e13a13f5524553f57.js": "/nvsibiya/react-portfolio-masterprecache-manifest.37a8b77bc7b8a89e13a13f5524553f57.js",
+    "service-worker.js": "/nvsibiya/react-portfolio-masterservice-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/nvsibiya/react-portfolio-masterstatic/css/main.5facb584.chunk.css.map",
+    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/nvsibiya/react-portfolio-masterstatic/js/2.3ef2d018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad332b61.js",
+    "static/js/2.3ef2d018.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.4ca79ebe.chunk.js"
+  ]
+}
